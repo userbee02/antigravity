@@ -1,1 +1,1 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/components/Antigravity.tsx"],"version":"5.8.3"}
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Antigravity.d.ts","./src/lib/utils.ts"],"version":"5.8.3"}
