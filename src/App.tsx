@@ -24,7 +24,7 @@ export default function App() {
             particleSize={2}
             lerpSpeed={0.1}
             color="#FF9FFC"
-            autoAnimate={true}
+            autoAnimate={false}
             particleVariance={1}
             rotationSpeed={0}
             depthFactor={1}
